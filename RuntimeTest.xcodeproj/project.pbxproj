@@ -16,6 +16,7 @@
 		D768B74F206E3CFC0090D0D5 /* RuntimeTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D768B74E206E3CFC0090D0D5 /* RuntimeTestTests.m */; };
 		D768B75A206E3CFC0090D0D5 /* RuntimeTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D768B759206E3CFC0090D0D5 /* RuntimeTestUITests.m */; };
 		D768B769206E3EF40090D0D5 /* person1.m in Sources */ = {isa = PBXBuildFile; fileRef = D768B768206E3EF40090D0D5 /* person1.m */; };
+		D768B76C206E4C130090D0D5 /* UIImage+interMethod.m in Sources */ = {isa = PBXBuildFile; fileRef = D768B76B206E4C130090D0D5 /* UIImage+interMethod.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		D768B75B206E3CFC0090D0D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D768B767206E3EF40090D0D5 /* person1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = person1.h; sourceTree = "<group>"; };
 		D768B768206E3EF40090D0D5 /* person1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = person1.m; sourceTree = "<group>"; };
+		D768B76A206E4C130090D0D5 /* UIImage+interMethod.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+interMethod.h"; sourceTree = "<group>"; };
+		D768B76B206E4C130090D0D5 /* UIImage+interMethod.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+interMethod.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				D768B739206E3CFC0090D0D5 /* ViewController.m */,
 				D768B767206E3EF40090D0D5 /* person1.h */,
 				D768B768206E3EF40090D0D5 /* person1.m */,
+				D768B76A206E4C130090D0D5 /* UIImage+interMethod.h */,
+				D768B76B206E4C130090D0D5 /* UIImage+interMethod.m */,
 				D768B73B206E3CFC0090D0D5 /* Main.storyboard */,
 				D768B73E206E3CFC0090D0D5 /* Assets.xcassets */,
 				D768B740206E3CFC0090D0D5 /* LaunchScreen.storyboard */,
@@ -270,6 +275,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D768B76C206E4C130090D0D5 /* UIImage+interMethod.m in Sources */,
 				D768B769206E3EF40090D0D5 /* person1.m in Sources */,
 				D768B73A206E3CFC0090D0D5 /* ViewController.m in Sources */,
 				D768B745206E3CFC0090D0D5 /* main.m in Sources */,
