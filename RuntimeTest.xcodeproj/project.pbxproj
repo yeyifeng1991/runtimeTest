@@ -17,6 +17,7 @@
 		D768B75A206E3CFC0090D0D5 /* RuntimeTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D768B759206E3CFC0090D0D5 /* RuntimeTestUITests.m */; };
 		D768B769206E3EF40090D0D5 /* person1.m in Sources */ = {isa = PBXBuildFile; fileRef = D768B768206E3EF40090D0D5 /* person1.m */; };
 		D768B76C206E4C130090D0D5 /* UIImage+interMethod.m in Sources */ = {isa = PBXBuildFile; fileRef = D768B76B206E4C130090D0D5 /* UIImage+interMethod.m */; };
+		D789E72820734F0700B30E83 /* UIViewController+HandleMethod.m in Sources */ = {isa = PBXBuildFile; fileRef = D789E72720734F0700B30E83 /* UIViewController+HandleMethod.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		D768B768206E3EF40090D0D5 /* person1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = person1.m; sourceTree = "<group>"; };
 		D768B76A206E4C130090D0D5 /* UIImage+interMethod.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+interMethod.h"; sourceTree = "<group>"; };
 		D768B76B206E4C130090D0D5 /* UIImage+interMethod.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+interMethod.m"; sourceTree = "<group>"; };
+		D789E72620734F0700B30E83 /* UIViewController+HandleMethod.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+HandleMethod.h"; sourceTree = "<group>"; };
+		D789E72720734F0700B30E83 /* UIViewController+HandleMethod.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+HandleMethod.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				D768B768206E3EF40090D0D5 /* person1.m */,
 				D768B76A206E4C130090D0D5 /* UIImage+interMethod.h */,
 				D768B76B206E4C130090D0D5 /* UIImage+interMethod.m */,
+				D789E72620734F0700B30E83 /* UIViewController+HandleMethod.h */,
+				D789E72720734F0700B30E83 /* UIViewController+HandleMethod.m */,
 				D768B73B206E3CFC0090D0D5 /* Main.storyboard */,
 				D768B73E206E3CFC0090D0D5 /* Assets.xcassets */,
 				D768B740206E3CFC0090D0D5 /* LaunchScreen.storyboard */,
@@ -276,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D768B76C206E4C130090D0D5 /* UIImage+interMethod.m in Sources */,
+				D789E72820734F0700B30E83 /* UIViewController+HandleMethod.m in Sources */,
 				D768B769206E3EF40090D0D5 /* person1.m in Sources */,
 				D768B73A206E3CFC0090D0D5 /* ViewController.m in Sources */,
 				D768B745206E3CFC0090D0D5 /* main.m in Sources */,
