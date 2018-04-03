@@ -18,6 +18,7 @@
 		D768B769206E3EF40090D0D5 /* person1.m in Sources */ = {isa = PBXBuildFile; fileRef = D768B768206E3EF40090D0D5 /* person1.m */; };
 		D768B76C206E4C130090D0D5 /* UIImage+interMethod.m in Sources */ = {isa = PBXBuildFile; fileRef = D768B76B206E4C130090D0D5 /* UIImage+interMethod.m */; };
 		D789E72820734F0700B30E83 /* UIViewController+HandleMethod.m in Sources */ = {isa = PBXBuildFile; fileRef = D789E72720734F0700B30E83 /* UIViewController+HandleMethod.m */; };
+		D789E72A2073562600B30E83 /* NullSafe.m in Sources */ = {isa = PBXBuildFile; fileRef = D789E7292073562500B30E83 /* NullSafe.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		D768B76B206E4C130090D0D5 /* UIImage+interMethod.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+interMethod.m"; sourceTree = "<group>"; };
 		D789E72620734F0700B30E83 /* UIViewController+HandleMethod.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+HandleMethod.h"; sourceTree = "<group>"; };
 		D789E72720734F0700B30E83 /* UIViewController+HandleMethod.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+HandleMethod.m"; sourceTree = "<group>"; };
+		D789E7292073562500B30E83 /* NullSafe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NullSafe.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				D768B76B206E4C130090D0D5 /* UIImage+interMethod.m */,
 				D789E72620734F0700B30E83 /* UIViewController+HandleMethod.h */,
 				D789E72720734F0700B30E83 /* UIViewController+HandleMethod.m */,
+				D789E7292073562500B30E83 /* NullSafe.m */,
 				D768B73B206E3CFC0090D0D5 /* Main.storyboard */,
 				D768B73E206E3CFC0090D0D5 /* Assets.xcassets */,
 				D768B740206E3CFC0090D0D5 /* LaunchScreen.storyboard */,
@@ -285,6 +288,7 @@
 				D768B769206E3EF40090D0D5 /* person1.m in Sources */,
 				D768B73A206E3CFC0090D0D5 /* ViewController.m in Sources */,
 				D768B745206E3CFC0090D0D5 /* main.m in Sources */,
+				D789E72A2073562600B30E83 /* NullSafe.m in Sources */,
 				D768B737206E3CFC0090D0D5 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
